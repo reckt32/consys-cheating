@@ -1,0 +1,8 @@
+/* content.css */
+
+/* This file is loaded into web pages by the content script defined in manifest.json. */
+/* Although the styling for the result overlay is currently applied */
+/* inline via JavaScript in background.js, this file MUST exist */
+/* because it is referenced in the manifest. */
+
+/* You could move CSS rules here later if desired. */
